@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+*.testlog
+*.manifest
+*.suo
+*.json
+*.pdb
+/Calculadora/bin/Debug/net6.0
+/Calculadora/obj/Debug/net6.0
+/Calculadora/obj
+/TestCalculadora/bin/Debug/net6.0
+/TestCalculadora/obj
